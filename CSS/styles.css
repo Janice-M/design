@@ -1,0 +1,11 @@
+@import url("bootstrap.css");
+
+/* how to attach bootstrap*/
+.fs12{
+  font-size: 12px;
+}
+.fs16{
+  font-size: 16px;
+}
+
+@import url("font.css");
